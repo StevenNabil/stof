@@ -1,0 +1,2 @@
+# stof
+begginer python code
